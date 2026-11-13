@@ -1,0 +1,23 @@
+# Bengaluru Namma Metro — Current & Future Network Map
+
+> An unofficial, source-checked map of Bengaluru's Namma Metro. It covers every operational, under-construction, approved and proposed line, with station lists, status and target dates. Status as of 13 November 2026. Author: Navdeep Singh Chander. Not affiliated with BMRCL.
+
+The main page has an interactive map and a full text version of the same content. The text version includes stations in order for each line, a timeline, an FAQ and sources.
+
+## Key facts (as of 13 Nov 2026)
+- Operational from 14 Nov 2026: 103.6 km, 88 stations. Purple Line 43.49 km, 37 stations; Green Line 33.46 km, 32 stations; Yellow Line 19.15 km, 16 stations; Pink Line elevated section Kalena Agrahara–Tavarekere 7.5 km, 6 stations.
+- Pink Line elevated section: CMRS safety clearance on 28 Oct 2026; PM inauguration scheduled for 13 Nov 2026; public service from 14 Nov 2026.
+- Pink Line underground section, Dairy Circle–Nagawara (13.76 km, 12 stations): target Mar–May 2027.
+- Blue Line, Central Silk Board–KR Puram–Airport (58.19 km, 30 stations): mainline trial runs started Nov 2026. Targets: Silk Board–KR Puram mid-2027; Hebbal–Airport Sep 2027; KR Puram–Hebbal early 2028; full line Mar 2028.
+- Phase 3 (approved Aug 2024): Orange Line, JP Nagar 4th Phase–Kempapura (32.15 km, 22 stations), and the Hosahalli–Kadabagere line on Magadi Road (12.5 km, 9 stations). Target May 2031.
+- Phase 3A Red Line, Sarjapur–Hebbal (36.59–37.8 km, 28 stations): approved by the state on 6 Dec 2024; awaiting Union approval, with no timeline.
+- Phase 4: 8 proposed suburban corridors (about 215 km) at feasibility or DPR stage. Not approved.
+- "Tavarekere" on Magadi Road (a proposed extension beyond Kadabagere) is not the Pink Line's Tavarekere station near BTM Layout.
+
+## Pages
+- [Interactive map and full text summary](https://nchand02.github.io/bengaluru-metro-map/)
+- [Author profile](https://nchand02.github.io/bio/)
+
+## Notes
+- Future dates are official targets as reported. Most past targets slipped.
+- Station positions are approximate. Routes of approved and proposed lines are indicative.

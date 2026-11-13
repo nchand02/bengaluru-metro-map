@@ -1,0 +1,5 @@
+# Note: crawlers read robots.txt only at the domain root (nchand02.github.io/robots.txt).
+# This copy documents intent; all crawlers, including AI crawlers, are welcome.
+User-agent: *
+Allow: /
+Sitemap: https://nchand02.github.io/bengaluru-metro-map/sitemap.xml
